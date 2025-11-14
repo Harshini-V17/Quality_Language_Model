@@ -58,7 +58,7 @@ Layers Implemented
 
 1. RAW – Untouched input files
 
-2, BRONZE – Schema applied, minimally cleaned Delta tables
+2. BRONZE – Schema applied, minimally cleaned Delta tables
 
 3. SILVER – Cleaned, redacted, standardized datasets
 
