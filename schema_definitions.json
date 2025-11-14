@@ -1,0 +1,22 @@
+{
+  "source1_schema": {
+    "patient_id": "string",
+    "patient_name": "string",
+    "note_id": "string",
+    "timestamp": "timestamp",
+    "clinical_text": "string",
+    "doctor_name": "string",
+    "hospital": "string",
+    "mrn": "string"
+  },
+  "source2_schema": {
+    "patient_id": "string",
+    "report_id": "string",
+    "test_name": "string",
+    "result_value": "double",
+    "unit": "string",
+    "report_date": "date",
+    "lab_name": "string",
+    "technician": "string"
+  }
+}
