@@ -1,0 +1,201 @@
+patient_id,report_id,test_name,result_value,unit,report_date,lab_name,technician
+P001,LR00001,Liver Function,40.0,U/L,2024-06-07,Kauvery Hospital,Tech A
+P002,LR00002,HbA1c,11.0,%,2024-04-13,Kauvery Hospital,Tech C
+P003,LR00003,HbA1c,7.6,%,2024-07-20,Fortis Healthcare,Tech B
+P004,LR00004,Liver Function,62.0,U/L,2024-02-01,MIOT International,Tech C
+P005,LR00005,Liver Function,56.0,U/L,2024-05-12,Apollo Hospitals,Tech C
+P006,LR00006,Thyroid Stimulating Hormone,7.15,mIU/L,2024-08-02,Fortis Healthcare,Tech A
+P007,LR00007,HbA1c,8.0,%,2024-11-01,Fortis Healthcare,Tech C
+P008,LR00008,Glucose Fasting,126.0,mg/dL,2024-08-17,MIOT International,Tech C
+P009,LR00009,Glucose Fasting,168.0,mg/dL,2024-11-10,Fortis Healthcare,Tech B
+P010,LR00010,Liver Function,90.0,U/L,2024-06-28,Fortis Healthcare,Tech A
+P011,LR00011,Glucose Fasting,174.0,mg/dL,2024-07-25,Fortis Healthcare,Tech C
+P012,LR00012,Liver Function,22.0,U/L,2024-04-04,Kauvery Hospital,Tech C
+P013,LR00013,Thyroid Stimulating Hormone,1.43,mIU/L,2024-06-20,City General Hospital,Tech C
+P014,LR00014,HbA1c,5.8,%,2024-05-06,MIOT International,Tech C
+P015,LR00015,Liver Function,10.0,U/L,2024-09-01,MIOT International,Tech B
+P016,LR00016,HbA1c,9.6,%,2024-07-30,Fortis Healthcare,Tech C
+P017,LR00017,Lipid Panel,200.0,mg/dL,2024-10-18,City General Hospital,Tech C
+P018,LR00018,Glucose Fasting,88.0,mg/dL,2024-11-07,City General Hospital,Tech A
+P019,LR00019,Liver Function,55.0,U/L,2024-05-20,Apollo Hospitals,Tech B
+P020,LR00020,CBC,7796.0,cells/uL,2024-06-07,Kauvery Hospital,Tech C
+P021,LR00021,Glucose Fasting,100.0,mg/dL,2024-07-01,City General Hospital,Tech B
+P022,LR00022,HbA1c,5.0,%,2024-09-02,Apollo Hospitals,Tech A
+P023,LR00023,Liver Function,48.0,U/L,2024-07-08,Apollo Hospitals,Tech C
+P024,LR00024,CBC,5773.0,cells/uL,2024-07-07,Fortis Healthcare,Tech C
+P025,LR00025,HbA1c,7.8,%,2024-08-07,Kauvery Hospital,Tech B
+P026,LR00026,Glucose Fasting,135.0,mg/dL,2024-07-17,City General Hospital,Tech C
+P027,LR00027,HbA1c,8.1,%,2024-08-17,Fortis Healthcare,Tech B
+P028,LR00028,HbA1c,7.8,%,2024-07-25,MIOT International,Tech C
+P029,LR00029,HbA1c,6.8,%,2024-06-07,Kauvery Hospital,Tech A
+P030,LR00030,CBC,10618.0,cells/uL,2024-07-20,Fortis Healthcare,Tech C
+P031,LR00031,Lipid Panel,151.0,mg/dL,2024-07-13,Apollo Hospitals,Tech A
+P032,LR00032,Glucose Fasting,107.0,mg/dL,2024-05-06,City General Hospital,Tech C
+P033,LR00033,CBC,8448.0,cells/uL,2024-09-23,Fortis Healthcare,Tech B
+P034,LR00034,CBC,4092.0,cells/uL,2024-11-03,Fortis Healthcare,Tech B
+P035,LR00035,Thyroid Stimulating Hormone,3.56,mIU/L,2024-09-15,Fortis Healthcare,Tech C
+P036,LR00036,Liver Function,23.0,U/L,2024-02-27,Apollo Hospitals,Tech B
+P037,LR00037,Thyroid Stimulating Hormone,4.81,mIU/L,2024-08-23,Apollo Hospitals,Tech B
+P038,LR00038,Glucose Fasting,195.0,mg/dL,2024-09-12,City General Hospital,Tech B
+P039,LR00039,Liver Function,20.0,U/L,2024-10-22,Kauvery Hospital,Tech B
+P040,LR00040,Thyroid Stimulating Hormone,0.21,mIU/L,2024-08-03,Fortis Healthcare,Tech A
+P041,LR00041,Thyroid Stimulating Hormone,5.88,mIU/L,2024-09-30,Kauvery Hospital,Tech B
+P042,LR00042,HbA1c,6.5,%,2024-02-07,MIOT International,Tech A
+P043,LR00043,Liver Function,27.0,U/L,2024-03-14,MIOT International,Tech C
+P044,LR00044,CBC,9580.0,cells/uL,2024-04-15,Kauvery Hospital,Tech B
+P045,LR00045,Lipid Panel,134.0,mg/dL,2024-03-01,Apollo Hospitals,Tech B
+P046,LR00046,HbA1c,7.5,%,2024-07-06,Kauvery Hospital,Tech A
+P047,LR00047,Thyroid Stimulating Hormone,2.4,mIU/L,2024-03-27,Apollo Hospitals,Tech C
+P048,LR00048,Glucose Fasting,160.0,mg/dL,2024-06-16,Fortis Healthcare,Tech B
+P049,LR00049,HbA1c,5.2,%,2024-02-29,MIOT International,Tech C
+P050,LR00050,CBC,5876.0,cells/uL,2024-02-29,Fortis Healthcare,Tech A
+P051,LR00051,CBC,9472.0,cells/uL,2024-03-07,MIOT International,Tech C
+P052,LR00052,HbA1c,5.4,%,2024-10-26,City General Hospital,Tech A
+P053,LR00053,Lipid Panel,150.0,mg/dL,2024-10-26,Kauvery Hospital,Tech B
+P054,LR00054,CBC,6326.0,cells/uL,2024-03-13,Kauvery Hospital,Tech B
+P055,LR00055,HbA1c,10.9,%,2024-05-06,Fortis Healthcare,Tech B
+P056,LR00056,Lipid Panel,235.0,mg/dL,2024-09-10,Kauvery Hospital,Tech C
+P057,LR00057,Lipid Panel,286.0,mg/dL,2024-06-16,City General Hospital,Tech C
+P058,LR00058,Lipid Panel,125.0,mg/dL,2024-08-06,Apollo Hospitals,Tech C
+P059,LR00059,HbA1c,5.9,%,2024-06-25,Apollo Hospitals,Tech A
+P060,LR00060,Lipid Panel,152.0,mg/dL,2024-04-11,MIOT International,Tech B
+P061,LR00061,HbA1c,7.7,%,2024-08-25,MIOT International,Tech B
+P062,LR00062,HbA1c,7.5,%,2024-07-04,Fortis Healthcare,Tech B
+P063,LR00063,Thyroid Stimulating Hormone,1.35,mIU/L,2024-08-13,Fortis Healthcare,Tech A
+P064,LR00064,Glucose Fasting,192.0,mg/dL,2024-05-23,Apollo Hospitals,Tech A
+P065,LR00065,Thyroid Stimulating Hormone,2.53,mIU/L,2024-09-15,Fortis Healthcare,Tech C
+P066,LR00066,Glucose Fasting,100.0,mg/dL,2024-02-18,MIOT International,Tech B
+P067,LR00067,Lipid Panel,168.0,mg/dL,2024-05-15,Apollo Hospitals,Tech A
+P068,LR00068,HbA1c,9.1,%,2024-10-06,Fortis Healthcare,Tech A
+P069,LR00069,HbA1c,4.5,%,2024-09-07,Apollo Hospitals,Tech A
+P070,LR00070,CBC,8070.0,cells/uL,2024-11-06,City General Hospital,Tech A
+P071,LR00071,Thyroid Stimulating Hormone,4.9,mIU/L,2024-06-01,City General Hospital,Tech A
+P072,LR00072,HbA1c,5.3,%,2024-04-30,City General Hospital,Tech C
+P073,LR00073,CBC,7486.0,cells/uL,2024-07-13,Kauvery Hospital,Tech B
+P074,LR00074,HbA1c,5.0,%,2024-09-20,Apollo Hospitals,Tech C
+P075,LR00075,Liver Function,74.0,U/L,2024-02-26,MIOT International,Tech C
+P076,LR00076,HbA1c,8.9,%,2024-10-17,Apollo Hospitals,Tech A
+P077,LR00077,Lipid Panel,133.0,mg/dL,2024-04-28,MIOT International,Tech B
+P078,LR00078,Lipid Panel,202.0,mg/dL,2024-10-13,Kauvery Hospital,Tech B
+P079,LR00079,Liver Function,81.0,U/L,2024-02-06,City General Hospital,Tech B
+P080,LR00080,HbA1c,7.8,%,2024-11-09,Apollo Hospitals,Tech B
+P081,LR00081,Glucose Fasting,113.0,mg/dL,2024-06-13,City General Hospital,Tech C
+P082,LR00082,Glucose Fasting,76.0,mg/dL,2024-10-01,Fortis Healthcare,Tech B
+P083,LR00083,Liver Function,76.0,U/L,2024-06-25,Fortis Healthcare,Tech A
+P084,LR00084,Lipid Panel,273.0,mg/dL,2024-08-11,Kauvery Hospital,Tech A
+P085,LR00085,CBC,7784.0,cells/uL,2024-07-14,MIOT International,Tech B
+P086,LR00086,Thyroid Stimulating Hormone,1.67,mIU/L,2024-03-31,Kauvery Hospital,Tech B
+P087,LR00087,Glucose Fasting,80.0,mg/dL,2024-06-19,Fortis Healthcare,Tech C
+P088,LR00088,Glucose Fasting,178.0,mg/dL,2024-11-07,Fortis Healthcare,Tech B
+P089,LR00089,Lipid Panel,298.0,mg/dL,2024-05-18,MIOT International,Tech A
+P090,LR00090,HbA1c,8.7,%,2024-03-27,Fortis Healthcare,Tech C
+P091,LR00091,Lipid Panel,287.0,mg/dL,2024-02-25,MIOT International,Tech B
+P092,LR00092,HbA1c,8.8,%,2024-03-31,City General Hospital,Tech B
+P093,LR00093,Liver Function,83.0,U/L,2024-02-01,Kauvery Hospital,Tech A
+P094,LR00094,HbA1c,6.5,%,2024-10-31,Fortis Healthcare,Tech C
+P095,LR00095,Liver Function,83.0,U/L,2024-11-05,Kauvery Hospital,Tech A
+P096,LR00096,CBC,4509.0,cells/uL,2024-07-17,City General Hospital,Tech A
+P097,LR00097,Thyroid Stimulating Hormone,3.83,mIU/L,2024-08-27,MIOT International,Tech A
+P098,LR00098,CBC,6636.0,cells/uL,2024-03-22,MIOT International,Tech B
+P099,LR00099,Thyroid Stimulating Hormone,1.11,mIU/L,2024-06-27,Kauvery Hospital,Tech C
+P100,LR00100,Glucose Fasting,107.0,mg/dL,2024-03-24,MIOT International,Tech C
+P101,LR00101,Liver Function,89.0,U/L,2024-11-20,MIOT International,Tech A
+P102,LR00102,HbA1c,7.9,%,2024-11-24,Apollo Hospitals,Tech A
+P103,LR00103,HbA1c,9.1,%,2024-06-25,Apollo Hospitals,Tech B
+P104,LR00104,HbA1c,9.0,%,2024-07-08,Kauvery Hospital,Tech B
+P105,LR00105,Lipid Panel,262.0,mg/dL,2024-09-13,MIOT International,Tech C
+P106,LR00106,Lipid Panel,262.0,mg/dL,2024-08-20,Kauvery Hospital,Tech B
+P107,LR00107,Thyroid Stimulating Hormone,0.23,mIU/L,2024-08-18,Apollo Hospitals,Tech A
+P108,LR00108,Glucose Fasting,100.0,mg/dL,2024-02-04,MIOT International,Tech A
+P109,LR00109,CBC,5880.0,cells/uL,2024-07-24,Kauvery Hospital,Tech B
+P110,LR00110,Thyroid Stimulating Hormone,3.91,mIU/L,2024-07-11,MIOT International,Tech C
+P111,LR00111,CBC,4102.0,cells/uL,2024-07-30,Apollo Hospitals,Tech C
+P112,LR00112,Lipid Panel,144.0,mg/dL,2024-09-20,Kauvery Hospital,Tech C
+P113,LR00113,Thyroid Stimulating Hormone,0.84,mIU/L,2024-03-25,MIOT International,Tech C
+P114,LR00114,Liver Function,90.0,U/L,2024-03-01,MIOT International,Tech A
+P115,LR00115,CBC,6771.0,cells/uL,2024-07-27,Apollo Hospitals,Tech C
+P116,LR00116,Thyroid Stimulating Hormone,5.56,mIU/L,2024-02-14,Fortis Healthcare,Tech B
+P117,LR00117,Thyroid Stimulating Hormone,3.24,mIU/L,2024-03-23,Kauvery Hospital,Tech C
+P118,LR00118,CBC,4737.0,cells/uL,2024-02-15,Apollo Hospitals,Tech C
+P119,LR00119,Thyroid Stimulating Hormone,5.45,mIU/L,2024-10-30,Apollo Hospitals,Tech A
+P120,LR00120,CBC,9014.0,cells/uL,2024-11-09,Fortis Healthcare,Tech C
+P121,LR00121,Liver Function,49.0,U/L,2024-02-06,MIOT International,Tech A
+P122,LR00122,Liver Function,71.0,U/L,2024-03-26,Fortis Healthcare,Tech C
+P123,LR00123,Liver Function,19.0,U/L,2024-09-25,Kauvery Hospital,Tech C
+P124,LR00124,CBC,4562.0,cells/uL,2024-08-18,Fortis Healthcare,Tech C
+P125,LR00125,Glucose Fasting,85.0,mg/dL,2024-09-06,Kauvery Hospital,Tech A
+P126,LR00126,HbA1c,8.9,%,2024-06-01,Kauvery Hospital,Tech A
+P127,LR00127,Liver Function,39.0,U/L,2024-10-25,Fortis Healthcare,Tech C
+P128,LR00128,Liver Function,13.0,U/L,2024-03-26,City General Hospital,Tech B
+P129,LR00129,Thyroid Stimulating Hormone,7.81,mIU/L,2024-10-25,Kauvery Hospital,Tech B
+P130,LR00130,Lipid Panel,277.0,mg/dL,2024-04-23,Apollo Hospitals,Tech A
+P131,LR00131,HbA1c,6.4,%,2024-05-07,Apollo Hospitals,Tech C
+P132,LR00132,Lipid Panel,225.0,mg/dL,2024-09-25,Fortis Healthcare,Tech B
+P133,LR00133,Lipid Panel,212.0,mg/dL,2024-05-31,Fortis Healthcare,Tech C
+P134,LR00134,Liver Function,67.0,U/L,2024-11-17,Kauvery Hospital,Tech C
+P135,LR00135,CBC,8280.0,cells/uL,2024-08-08,Kauvery Hospital,Tech B
+P136,LR00136,Lipid Panel,136.0,mg/dL,2024-06-14,City General Hospital,Tech A
+P137,LR00137,Thyroid Stimulating Hormone,0.48,mIU/L,2024-02-05,Apollo Hospitals,Tech C
+P138,LR00138,Thyroid Stimulating Hormone,7.34,mIU/L,2024-11-16,MIOT International,Tech C
+P139,LR00139,Glucose Fasting,82.0,mg/dL,2024-09-21,Kauvery Hospital,Tech B
+P140,LR00140,CBC,4443.0,cells/uL,2024-11-03,Kauvery Hospital,Tech C
+P141,LR00141,HbA1c,5.2,%,2024-10-01,Fortis Healthcare,Tech B
+P142,LR00142,Glucose Fasting,133.0,mg/dL,2024-07-13,Apollo Hospitals,Tech A
+P143,LR00143,Glucose Fasting,135.0,mg/dL,2024-05-12,Apollo Hospitals,Tech A
+P144,LR00144,HbA1c,5.4,%,2024-02-29,City General Hospital,Tech C
+P145,LR00145,Glucose Fasting,107.0,mg/dL,2024-11-02,Fortis Healthcare,Tech B
+P146,LR00146,Glucose Fasting,91.0,mg/dL,2024-11-02,Fortis Healthcare,Tech B
+P147,LR00147,HbA1c,6.1,%,2024-08-23,MIOT International,Tech A
+P148,LR00148,CBC,5315.0,cells/uL,2024-07-21,City General Hospital,Tech B
+P149,LR00149,HbA1c,6.4,%,2024-06-20,City General Hospital,Tech B
+P150,LR00150,Thyroid Stimulating Hormone,7.43,mIU/L,2024-04-17,City General Hospital,Tech C
+P151,LR00151,Liver Function,38.0,U/L,2024-11-08,Kauvery Hospital,Tech C
+P152,LR00152,Glucose Fasting,90.0,mg/dL,2024-04-05,City General Hospital,Tech C
+P153,LR00153,Lipid Panel,222.0,mg/dL,2024-09-08,City General Hospital,Tech A
+P154,LR00154,HbA1c,8.4,%,2024-05-14,City General Hospital,Tech A
+P155,LR00155,Liver Function,22.0,U/L,2024-04-18,Fortis Healthcare,Tech C
+P156,LR00156,Glucose Fasting,118.0,mg/dL,2024-03-27,Kauvery Hospital,Tech A
+P157,LR00157,HbA1c,10.9,%,2024-10-26,MIOT International,Tech B
+P158,LR00158,Lipid Panel,184.0,mg/dL,2024-10-06,Apollo Hospitals,Tech B
+P159,LR00159,Thyroid Stimulating Hormone,3.06,mIU/L,2024-08-17,Kauvery Hospital,Tech B
+P160,LR00160,Lipid Panel,264.0,mg/dL,2024-11-08,MIOT International,Tech C
+P161,LR00161,CBC,10358.0,cells/uL,2024-07-06,City General Hospital,Tech B
+P162,LR00162,Glucose Fasting,131.0,mg/dL,2024-05-13,City General Hospital,Tech A
+P163,LR00163,HbA1c,9.8,%,2024-11-10,MIOT International,Tech B
+P164,LR00164,CBC,4700.0,cells/uL,2024-03-25,Kauvery Hospital,Tech A
+P165,LR00165,Lipid Panel,227.0,mg/dL,2024-05-22,City General Hospital,Tech B
+P166,LR00166,Thyroid Stimulating Hormone,7.79,mIU/L,2024-03-09,Fortis Healthcare,Tech A
+P167,LR00167,Liver Function,84.0,U/L,2024-02-19,Kauvery Hospital,Tech C
+P168,LR00168,HbA1c,10.5,%,2024-02-21,City General Hospital,Tech C
+P169,LR00169,Thyroid Stimulating Hormone,2.09,mIU/L,2024-04-14,Fortis Healthcare,Tech C
+P170,LR00170,Glucose Fasting,72.0,mg/dL,2024-04-25,Fortis Healthcare,Tech B
+P171,LR00171,Glucose Fasting,104.0,mg/dL,2024-04-06,Fortis Healthcare,Tech A
+P172,LR00172,Liver Function,10.0,U/L,2024-02-05,Apollo Hospitals,Tech B
+P173,LR00173,HbA1c,10.5,%,2024-10-01,Apollo Hospitals,Tech A
+P174,LR00174,HbA1c,4.9,%,2024-10-09,City General Hospital,Tech A
+P175,LR00175,HbA1c,6.5,%,2024-08-30,MIOT International,Tech B
+P176,LR00176,Glucose Fasting,91.0,mg/dL,2024-09-02,Apollo Hospitals,Tech B
+P177,LR00177,Liver Function,12.0,U/L,2024-02-14,Apollo Hospitals,Tech C
+P178,LR00178,Thyroid Stimulating Hormone,7.91,mIU/L,2024-09-17,Fortis Healthcare,Tech B
+P179,LR00179,Thyroid Stimulating Hormone,1.72,mIU/L,2024-03-02,Kauvery Hospital,Tech A
+P180,LR00180,Glucose Fasting,193.0,mg/dL,2024-04-23,Fortis Healthcare,Tech B
+P181,LR00181,Lipid Panel,270.0,mg/dL,2024-05-10,Kauvery Hospital,Tech B
+P182,LR00182,HbA1c,8.5,%,2024-10-11,MIOT International,Tech B
+P183,LR00183,Liver Function,11.0,U/L,2024-10-30,Fortis Healthcare,Tech A
+P184,LR00184,Liver Function,64.0,U/L,2024-02-11,Kauvery Hospital,Tech B
+P185,LR00185,Liver Function,84.0,U/L,2024-10-03,MIOT International,Tech B
+P186,LR00186,Lipid Panel,273.0,mg/dL,2024-04-17,Apollo Hospitals,Tech B
+P187,LR00187,Thyroid Stimulating Hormone,0.49,mIU/L,2024-10-13,Fortis Healthcare,Tech C
+P188,LR00188,HbA1c,6.6,%,2024-04-26,Fortis Healthcare,Tech C
+P189,LR00189,Liver Function,15.0,U/L,2024-03-13,Kauvery Hospital,Tech B
+P190,LR00190,HbA1c,5.3,%,2024-03-31,Fortis Healthcare,Tech C
+P191,LR00191,Liver Function,45.0,U/L,2024-10-02,MIOT International,Tech C
+P192,LR00192,HbA1c,9.0,%,2024-08-28,Fortis Healthcare,Tech B
+P193,LR00193,Thyroid Stimulating Hormone,7.36,mIU/L,2024-06-08,Fortis Healthcare,Tech B
+P194,LR00194,Thyroid Stimulating Hormone,0.83,mIU/L,2024-08-07,Apollo Hospitals,Tech B
+P195,LR00195,Glucose Fasting,106.0,mg/dL,2024-06-29,Apollo Hospitals,Tech A
+P196,LR00196,HbA1c,8.8,%,2024-02-02,Fortis Healthcare,Tech A
+P197,LR00197,HbA1c,6.4,%,2024-02-13,Kauvery Hospital,Tech C
+P198,LR00198,CBC,7604.0,cells/uL,2024-06-27,Apollo Hospitals,Tech A
+P199,LR00199,Glucose Fasting,136.0,mg/dL,2024-07-24,MIOT International,Tech B
+P200,LR00200,CBC,5060.0,cells/uL,2024-11-21,Fortis Healthcare,Tech B
